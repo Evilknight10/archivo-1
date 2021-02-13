@@ -1,0 +1,71 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Archivo 1</title>
+	
+	<style>
+		#Estilo { font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+		width: 600px;
+		background-color:#F99090; }
+	</style>
+</head>
+	
+<body>
+	
+	<div id="Estilo">
+	<h2>Este es el Archivo 1</h2>
+	
+	<p> Ahora comenzare hacer el primer parrafo para este archivo <br>
+	hablare de algunas partes para hacer impresiones de voz<br>
+	para eso hay que conocer las partes del cuerpo que se mueven<br>
+	las cuales son:
+	</p>
+	
+	<ul>
+	<li> Cuerdas Vocales </li>
+	<li> Laringe </li>
+	<li type="circle"> Lengua </li>
+	<li type="circle"> Paladar Blando </li>
+	
+	</ul>
+	
+	<h3> Asi se miran cada una de esas partes</h3>
+	
+	<img src="https://i.postimg.cc/W3B1nVDq/2307-Cartilages-of-the-Larynx.jpg" 
+		 height="150" width="220">
+	<img src="https://i.postimg.cc/pThdzrdt/Anterior-view-of-larynx.jpg" 
+		 height="150" width="220">
+
+	
+	<h2> Voces que podemos hacer</h2>
+	
+	<p> Al aprender las pocisiones de cada parte antes mencionada &#9757;<br>
+	podemos hacer varias impresiones de personajes iconicos, como<br>
+	rene la rana de los muppets y Stitch de la pelicula Lilo y Stitch,<br>
+	esto requiere practica pero hasta un ni&ntilde;o puede hacerlo &#128512; 
+	</p>
+	
+	<h4> Tipos de tonos</h4>
+	
+	<ul> 
+	<li type="Circle"> Tonos Graves &#8595; </li>
+	<li type="Circle"> Tonos Agudos &#8593; </li>
+	<li type="Circle"> Tonos Planos &#8596; </li>
+	</ul>
+	
+	<h3> Mira estos videos para practicar tus impresiones</h3>
+		
+		<a href=“enlace”>https://www.youtube.com/watch?v=V5e2CVKBOD0&t=146s</a>
+		<a href=“enlace”>https://www.youtube.com/watch?v=aMUf2gJ4uCQ</a>
+			   
+	<h4> Si quieres aprender mas de las impresiones de voz ve al enlace de abajo</h4>
+	<ul>
+		<li><a href=“enlace”>http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S0188-252X2008000200006</a></li>
+		<li><a href="enlace">https://www.escribircanciones.com.ar/icomo-componer-musica/674-consejos-para-aprovechar-al-maximo-tu-voz.html</a></li>
+		
+		</ul>
+	</div>
+					 
+</body>
+</html>
